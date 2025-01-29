@@ -85,7 +85,7 @@ DATABASES = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "https://yourfrontend.com",  # Replace with the actual frontend domain
+    "https://hng-api-dy5y.onrender.com",  # Replace with the actual frontend domain
     "http://127.0.0.1:8000",     # Allow local development
 ]
 CORS_ALLOW_CREDENTIALS = True
