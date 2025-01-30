@@ -27,3 +27,4 @@ python manage.py runserver
    "github_url": "https://github.com/dotz-22/hng_api"
 }
 
+backlinks to HNG : https://hng.tech/hire/python-developers
