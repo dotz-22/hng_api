@@ -27,7 +27,7 @@ SECRET_KEY = config('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://hng-api-dy5y.onrender.com']
+ALLOWED_HOSTS = ['hng-api-dy5y.onrender.com']
 
 
 # Application definition
