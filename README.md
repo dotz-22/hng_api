@@ -5,16 +5,18 @@ This is a public API for HNG12, returning my registered email, current datetime,
 
 ## **Setup**
 1. Clone the repository:
-
-git clone https://github.com/yourusername/your-repo.git
+ ```bash
+git clone https://github.com/dotz-22/hng_api
+```
 
 2. Install dependencies:
-
+ ```bash
 pip install -r requirements.txt
-
+```
 3. Run the server:
-
+ ```bash
 python manage.py runserver
+```
 
 ## **API Endpoint**
 - **URL:** `<your-public-api-url>`
@@ -26,6 +28,9 @@ python manage.py runserver
    "current_datetime": "2025-01-30T09:30:00Z",
    "github_url": "https://github.com/dotz-22/hng_api"
 } 
+```
 
-## Backlinks to HNG :
+## **Backlink to HNG**
+ ```bash
 - https://hng.tech/hire/python-developers
+```
